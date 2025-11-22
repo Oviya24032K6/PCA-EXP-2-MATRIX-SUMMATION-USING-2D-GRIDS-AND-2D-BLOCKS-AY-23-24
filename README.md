@@ -1,6 +1,5 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
-<h3>AIM:</h3>
 <h3>NAME:OVIYA P</h3>
 <h3>REGISTER NO:212223110033</h3>
 <h3>EX. NO: 02</h3>
